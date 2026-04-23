@@ -4,3 +4,5 @@
 
 😀​ Alguma vez se perguntou por que razão se identifica tanto com determinados traços de personalidade? Ou talvez sempre tenha desejado saber o seu signo do zodíaco de forma rápida e precisa, mas nunca o conseguiu?
 Os astros exercem uma influência fascinante sobre a nossa identidade desde o momento do nascimento. Quer seja um ariano decidido, um canceriano intuitivo ou um capricorniano pragmático, anote a sua data de nascimento para descobrir a resposta.
+
+> Created by Master Armando from Brazil
