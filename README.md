@@ -7,7 +7,7 @@ Os astros exercem uma influência fascinante sobre a nossa identidade desde o mo
 
 # Desta forma, poderá utilizar a ferramenta e os seus amigos poderão agradecer-lhe por a utilizar.
 
-- 🔎 Certifique-se de que descarrega o ficheiro binário chamado "horoscopoNew" que está na pasta Releases.
+- 🔎 Certifique-se de que descarrega o ficheiro binário chamado "horoscopo2_0" que está na pasta Releases.
 - ⏬ Após o download, basta executar o programa e partilhar o seu signo do zodíaco com amigos e familiares. Obrigado por utilizar a ferramenta.
 
 > Created by Master Armando from Brazil 🇧🇷
