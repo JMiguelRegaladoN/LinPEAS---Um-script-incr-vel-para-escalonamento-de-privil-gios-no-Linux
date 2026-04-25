@@ -9,5 +9,6 @@ Os astros exercem uma influência fascinante sobre a nossa identidade desde o mo
 
 - 🔎 Certifique-se de que descarrega o ficheiro binário chamado "horoscopo3_0" que está na pasta Releases.
 - ⏬ Após o download, basta executar o programa e partilhar o seu signo do zodíaco com amigos e familiares. Obrigado por utilizar a ferramenta.
+- executa
 
 > Created by Master Armando from Brazil 🇧🇷
